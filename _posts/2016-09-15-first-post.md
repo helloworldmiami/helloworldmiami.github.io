@@ -3,12 +3,12 @@ layout: default
 title: First Post
 ---
 
-		<div class="blurb">
-			<img
-				src="helloworldmiami.github.io/assets/hwm_med.png"
-				style="display:block;float:left;margin-right:25px;">
-				<h1>
-					helloworld<span style="color:#f72189">.</span><span style="color:#10bbe8;">miami</span>
-				</h1>
-			<p>An open source initiative from the sunshine state of code!</p>
-		</div>
+The future belongs to those of us who, despite it all, are still willing to get our hands dirty
+Effort is the only factor that affects success.
+Age is not a factor. Experience is not a factor. Intelligence is not a factor.
+Your willingness to break through and overcome obstacles will be your greatest ally.
+Look to it in your times of need.
+Success is effort, compounded through persistence.
+The smallest steps today may lead to great leaps some day.
+There is such a thing as progress for the sake of progress.
+We call it evolution...
