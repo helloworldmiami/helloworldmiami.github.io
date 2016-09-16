@@ -3,7 +3,7 @@ layout: default
 title: First Post
 ---
 
-The future belongs to those of us who, despite it all, are still willing to get our hands dirty. /n
+The future belongs to those of us who, despite it all, are still willing to get our hands dirty.
 Effort is the only factor that affects success.
 Age is not a factor. Experience is not a factor. Intelligence is not a factor.
 Your willingness to break through and overcome obstacles will be your greatest ally.
