@@ -1,0 +1,14 @@
+---
+layout: default
+title: First Post
+---
+
+		<div class="blurb">
+			<img
+				src="helloworldmiami.github.io/assets/hwm_med.png"
+				style="display:block;float:left;margin-right:25px;">
+				<h1>
+					helloworld<span style="color:#f72189">.</span><span style="color:#10bbe8;">miami</span>
+				</h1>
+			<p>An open source initiative from the sunshine state of code!</p>
+		</div>
